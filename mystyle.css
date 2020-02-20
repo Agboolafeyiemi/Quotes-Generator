@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  background-color: violet;
+}
+.btndiv {
+  height: 30vh;
+}
+.btn {
+  padding: 1rem;
+  position: absolute;
+  width: 23%;
+  left: 29rem;
+  right: 10rem;
+  border-radius: 0.5rem;
+  color: white;
+  font-size: 1rem;
+  font-weight: 900;
+  background-color: black;
+  margin-left: 15rem;
+}
+.btn:hover {
+  background-color: white;
+  color: black;
+  
+}
+.quote {
+  height: 41vh;
+  width: 80vw;
+  margin-left: 10rem;
+  text-align: center;
+}
+.quote h1 {
+  position: absolute;
+  bottom: 36rem;
+  left: 6rem;
+  right: 2rem;
+  text-align: center;
+}
