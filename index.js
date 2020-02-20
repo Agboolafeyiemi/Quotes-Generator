@@ -58,7 +58,8 @@ button.addEventListener('click', displayQuotes);
 function displayQuotes() {
     const h1 = document.getElementById('Eqoute');
     h1.textContent = quotes[Math.floor(Math.random() * (quotes.length))];
-}
+    
+};
 displayQuotes();
 
 
