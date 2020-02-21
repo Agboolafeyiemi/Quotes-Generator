@@ -1,0 +1,22 @@
+{
+  "name": "quotegenerator",
+  "version": "1.0.0",
+  "description": "quote generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agboolafeyiemi/Quotes-Generator.git"
+  },
+  "author": "Feyikemi Agboola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agboolafeyiemi/Quotes-Generator/issues"
+  },
+  "homepage": "https://github.com/Agboolafeyiemi/Quotes-Generator#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^3.10.3"
+  }
+}
