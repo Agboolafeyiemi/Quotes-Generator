@@ -1,1 +1,1 @@
-The Quotes Generator is a simple online tool with which you can generate  quotes.
+A  simple online tool with which you can generate  quotes.
