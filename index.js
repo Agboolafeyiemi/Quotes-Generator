@@ -165,7 +165,7 @@ function getRandomColor() {
 }
 
 function startTimer() {
-   timer = setInterval(printQuote, 10000);
+   timer = setInterval(printQuote, 6000);
 }
 
 function clearTimer() {
